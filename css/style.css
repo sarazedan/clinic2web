@@ -1,0 +1,359 @@
+body{
+	
+	    font-family: 'Droid Sans', sans-serif;
+		
+		padding:0px;
+		margin:0;
+		background-repeat:no-repeat;
+		background-attachment:scroll;
+
+	    background-image:url("imges/hotel.jpg") ;
+	    background-size:cover;
+        background-size:cover-o;
+		background-size:cover-moz;
+		background-size:-webkit;
+
+
+
+
+
+}
+/*start upp*/
+	
+.upp{
+	
+	background-color:#6f42c1;
+	padding:15px;
+	
+	color:white;
+}
+
+.upp .lt	{
+	margin-top:10px;
+	 
+}
+
+.lt a {
+	color:white;
+	
+	
+}
+.lt img {
+	 
+
+	
+}
+
+.rt a
+{
+	color:white;
+	text-decoration:none;
+}
+
+		
+		 
+.rt ul
+{
+	
+	
+     margin:0 auto;
+
+
+}
+
+.rt ul li
+{
+	display:inline-block;
+	
+		
+
+}
+
+@media(max-width:992px){
+
+	
+   .upp{
+	
+	
+	padding:6px;
+	
+}
+
+.rt ul
+{
+	
+	
+     margin-right:50px;
+
+
+}
+.lt img {
+	 
+margin-left:50px;
+margin-bottom:15px;
+	
+}
+}
+@media(max-width:576px){
+
+	
+  .rt ul
+{
+	
+    margin-top:15px;
+	
+     margin-bottom:10px;
+	 margin-left:0px;
+
+}
+.lt img {
+	 
+margin-left:50px;
+	
+}
+
+
+}
+
+/*end upp*/
+
+
+/*start navbar*/
+.navbar .container{
+	background-color:white ;
+	
+}
+
+.navbar-brand span{
+	
+	font-size:40px;
+	
+}
+
+.navbar-brand span:first-child{
+	
+	font-weight:bold;
+	color:#7080f5;
+}
+	
+.navbar-brand span:last-child{
+	
+	
+	color:#6f42c1;
+	
+	
+	
+}
+.navbar-nav .nav-link {
+
+	font-weight:bold;
+	font-size:15px;
+}
+.navbar-expand-lg .navbar-nav .active>.nav-link
+{
+	color:#6f42c1;
+	border:1px solid #7080f5;
+	
+	
+}
+/*end navbar*/
+/*start slider*/
+.carousel-fade{
+	margin-bottom:30px;
+}
+
+/*end slider*/
+
+
+/*start about us*/
+
+.about-us{
+
+	margin-bottom:30px;
+	
+	
+
+
+}
+.about-us h1{
+	font-size:60px;
+	font-weight:bold;
+	text-align:center;
+	color:#6f42c1;
+	margin-bottom:10px;
+}
+.about-us p{
+	font-size:20px;
+	
+	
+	color:#7080f5;
+	
+}
+
+.about-us .info{
+	overflow:hidden;
+	padding:0px;
+}
+
+.about-us .row .im{
+	width:650px;
+	height:300px;
+  
+	max-width:100%
+	
+}
+
+.about-us .row .hh{
+	
+	background-color:#08526d;
+	color:white;
+	padding-left:50px;
+	padding-top:40px;
+	padding-bottom:40px;
+	
+}
+
+/*end about us*/
+
+/*start special*/
+.special h1{
+	font-size:60px;
+	font-weight:bold;
+	text-align:center;
+	color:#6f42c1;
+	margin-bottom:10px;
+	margin-top:30px;
+}
+
+/*end special*/
+
+/*start services*/
+.services {
+	
+	
+	margin-bottom:30px;
+	
+}
+
+.services h1{
+	font-size:60px;
+	font-weight:bold;
+	text-align:center;
+	color:#6f42c1;
+	margin-bottom:10px;
+	margin-top:30px;
+}
+.services p{
+	font-size:15px;
+	
+	text-align:center;
+	color:#7080f5;
+}
+
+.services .row i{
+	color:black;
+	margin-left:100px;
+	
+	
+	
+}
+
+.services .row h3{
+	color:#6f42c1;
+	text-align:left;
+	display:block;
+	margin-left:50px;
+	font-weight:bold;
+	
+}
+.services .row p{
+	color:#7080f5;
+	margin-left:50px;
+	text-align:left
+	
+}
+
+/*end services*/
+/*start lab*/
+.lab {
+	
+	background-color:#41b7d8;
+	
+}
+
+.lab h1{
+	font-size:60px;
+	font-weight:bold;
+	text-align:center;
+	color:#6f42c1;
+	margin-bottom:10px;
+	margin-top:30px;
+}
+.lab .row img{
+	margin-bottom:30px;
+}
+/*end lab*/
+
+
+/*start contact*/
+.contact {
+	
+	background-color:black;
+	
+	
+}
+
+.contact h1{
+	font-size:60px;
+	font-weight:bold;
+	text-align:center;
+	color:red;
+	padding:20px;
+}
+
+.contact h5{
+	font-size:20px;
+	font-weight:bold;
+	text-align:center;
+	color:red;
+	padding:20px;
+}
+.contact h3,label{
+	
+	color:red;
+}
+
+
+
+
+.contact a
+{
+	color:white;
+	text-decoration:none;
+}
+
+		
+		 
+.contact ul
+{
+	
+	
+     margin:0 auto;
+
+
+}
+
+.contact ul li
+{
+	display:inline-block;
+	margin-left:0px;
+	margin-top:20px;
+	
+		
+
+}
+
+/*end contact*/
+
+
+
